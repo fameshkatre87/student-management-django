@@ -67,7 +67,6 @@ student_management/
 
 ## ⚙️ Setup (Local)
 
-```bash
 git clone https://github.com/USERNAME/student-management-django.git
 cd student-management-django
 python -m venv venv
